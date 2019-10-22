@@ -34,7 +34,7 @@ public class PlayerHP : MonoBehaviour
                 }
                 else
                 {
-                    SceneManager.LoadScene("GameOver");
+                    SceneManager.LoadScene("Game Lose...");
                 }
             }
         }
